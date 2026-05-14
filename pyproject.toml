@@ -1,0 +1,12 @@
+[project]
+name = "wxauto-batch-sender"
+version = "1.0.0"
+description = "基于 wxauto 的微信批量消息发送工具，支持联系人导入、智能姓名提取、过滤规则管理、防风控、AI 文案改写等功能"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+dependencies = [
+    "comtypes>=1.4",
+    "pywin32>=311",
+    "wxauto>=39.2",
+]
