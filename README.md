@@ -18,7 +18,7 @@
 
 - Windows 10/11
 - Python 3.10+
-- 微信 PC 版 3.9.2.23（wxauto 当前仅支持此版本）
+- 微信 PC 版 3.9.2.23（wxauto 当前仅支持此版本）具体可以参考https://github.com/Skyler1n/WeChat3.9-32bit-Compatibility-Launcher
 - 微信已登录且窗口可见
 
 ## 安装
